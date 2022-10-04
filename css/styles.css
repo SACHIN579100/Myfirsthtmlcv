@@ -1,0 +1,59 @@
+
+body{
+  margin:0px;
+  background-color: #9ED2C6;
+  text-align: center;
+  font-family: IBM Plex Serif, sans-serif;
+}
+h1{
+  margin-top: 50px;
+  font-family: Sacramento,serif;
+  font-size: 100px;
+}
+.sub-head1{
+  font-size: 2.5rem;
+}
+
+.top{
+  padding-top: 100px;
+}
+.bottom-cloud{
+  position:absolute;
+  bottom:300px;
+  left:300px;
+}
+
+.top-cloud{
+  position:absolute;
+  right:300px;
+  top:50px;
+}
+
+.python{
+  height: 100px;
+  width: 100px;
+}
+
+.html{
+  height: 100px;
+  width: 100px;
+}
+
+.mountain{
+  height: 300px;
+  width: 300px;
+}
+
+.head1{
+  color:#256D85;
+}
+.sub-head1{
+  color:#256D85;
+}
+
+.h2{
+  font-weight: normal;
+}
+.h1{
+  line-height: 2;
+}
